@@ -8,7 +8,7 @@ package lab.examen;
  *
  * @author xavie
  */
-public class LabExamen {
+public class Simulacion {
 
     /**
      * @param args the command line arguments
